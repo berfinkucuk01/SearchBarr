@@ -1,0 +1,24 @@
+.search-bar {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-bar label {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.search-bar input {
+  border: 1px solid rgb(166, 166, 166);
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 3px;
+}
